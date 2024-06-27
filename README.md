@@ -1,1 +1,1 @@
-# my-collection
+# js-collections
